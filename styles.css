@@ -1,0 +1,30 @@
+.caption {
+    font-style: italic;
+    font-size: smaller;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centre {
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.pages {
+    text-align: left;
+}
+
+.sections {
+    padding-top: 100px;
+    text-align: center;
+}
